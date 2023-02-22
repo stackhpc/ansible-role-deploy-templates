@@ -3,6 +3,10 @@ OpenStack Ironic deploy templates
 
 This role can be used to register deploy templates in OpenStack ironic.
 
+What are deploy templates? Read the
+[docs](https://docs.openstack.org/ironic/latest/admin/node-deployment.html) or
+watch the [video](https://www.youtube.com/watch?v=DrQcTljx_eM) to find out!
+
 Requirements
 ------------
 
